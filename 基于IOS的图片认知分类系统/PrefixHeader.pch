@@ -1,0 +1,71 @@
+//
+//  PrefixHeader.pch
+//  基于IOS的图片认知分类系统
+//
+//  Created by 王旭 on 2017/4/16.
+//  Copyright © 2017年 kys-5. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define ScreenHeight [[UIScreen mainScreen] bounds].size.height
+#define ScreenWidth [[UIScreen mainScreen] bounds].size.width
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import <SDAutoLayout.h>
+//图片加载类
+#import <UIImageView+WebCache.h>
+
+#endif
+
+#import "AFNHttpTool.h"
+//加载框架
+#import "MBProgressHUD+MJ.h"
+//
+#import <MJRefresh.h>
+
+
+#import "NSString+WXString.h"
+
+
+#import <LCActionSheet.h>
+
+//腾讯优图
+#import "Auth.h"
+#import "Conf.h"
+#import "TXQcloudFrSDK.h"
+
+//接口类
+#import "path.h"
+//判断字符串是否为空
+#import "DetermineWhetherIsEmpty.h"
+//提示toast
+#import "UIView+Toast.h"
+// 设置颜色
+#define WXColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+// 图片保存成功提示文字
+#define SDPhotoBrowserSaveImageSuccessText @" ^_^ 保存成功 "
+
+// 图片保存失败提示文字
+#define SDPhotoBrowserSaveImageFailText @" >_< 保存失败 "
+
+#define WXSuccessText @"请求成功"
+#define WXFailureText @"请求失败"
+
+#define JLKeyWindow [UIApplication sharedApplication].keyWindow
+//填充
+//#define padding 10
+//图片的tag值
+#define imageTag 20000
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

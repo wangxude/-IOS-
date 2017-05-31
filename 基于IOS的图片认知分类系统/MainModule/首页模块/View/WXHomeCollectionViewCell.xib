@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="WXHomeCollectionViewCell" id="gTV-IL-0wX" customClass="WXHomeCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="495" height="573"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="495" height="573"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image-3" translatesAutoresizingMaskIntoConstraints="NO" id="Yfs-KO-jje">
+                        <rect key="frame" x="5" y="5" width="485" height="170"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="170" id="xJn-gi-Qbe"/>
+                        </constraints>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image-0" translatesAutoresizingMaskIntoConstraints="NO" id="za9-ea-kr3">
+                        <rect key="frame" x="5" y="180" width="220" height="100"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="220" id="Umv-c2-k6Y"/>
+                            <constraint firstAttribute="height" constant="100" id="Yif-MD-t9U"/>
+                        </constraints>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image-1" translatesAutoresizingMaskIntoConstraints="NO" id="F7m-ZD-cLh">
+                        <rect key="frame" x="230" y="180" width="260" height="208"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="208" id="IAT-7P-2aj"/>
+                        </constraints>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image-2" translatesAutoresizingMaskIntoConstraints="NO" id="Z6u-9C-DZp">
+                        <rect key="frame" x="5" y="285" width="220" height="100"/>
+                    </imageView>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image-9" translatesAutoresizingMaskIntoConstraints="NO" id="kfr-m9-zwd">
+                        <rect key="frame" x="5" y="393" width="485" height="170"/>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="za9-ea-kr3" firstAttribute="top" secondItem="Yfs-KO-jje" secondAttribute="bottom" constant="5" id="3W7-DR-PrR"/>
+                <constraint firstItem="za9-ea-kr3" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="H4D-7Y-tND"/>
+                <constraint firstAttribute="trailing" secondItem="F7m-ZD-cLh" secondAttribute="trailing" constant="5" id="NjC-gw-zCd"/>
+                <constraint firstAttribute="trailing" secondItem="Yfs-KO-jje" secondAttribute="trailing" constant="5" id="OVd-CI-lgO"/>
+                <constraint firstItem="kfr-m9-zwd" firstAttribute="top" secondItem="F7m-ZD-cLh" secondAttribute="bottom" constant="5" id="Rag-3b-Jcb"/>
+                <constraint firstItem="Yfs-KO-jje" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="5" id="SYp-6x-SYb"/>
+                <constraint firstItem="Yfs-KO-jje" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="Wg4-PT-5Gg"/>
+                <constraint firstItem="Z6u-9C-DZp" firstAttribute="top" secondItem="za9-ea-kr3" secondAttribute="bottom" constant="5" id="YNL-bX-tRl"/>
+                <constraint firstItem="Z6u-9C-DZp" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="bk4-J0-gRD"/>
+                <constraint firstAttribute="trailing" secondItem="kfr-m9-zwd" secondAttribute="trailing" constant="5" id="e7c-vk-Yh0"/>
+                <constraint firstItem="Z6u-9C-DZp" firstAttribute="width" secondItem="za9-ea-kr3" secondAttribute="width" id="fZZ-5Q-Fhk"/>
+                <constraint firstItem="kfr-m9-zwd" firstAttribute="height" secondItem="Yfs-KO-jje" secondAttribute="height" id="jEt-Kd-CJT"/>
+                <constraint firstItem="F7m-ZD-cLh" firstAttribute="leading" secondItem="Z6u-9C-DZp" secondAttribute="trailing" constant="5" id="jdR-qe-foM"/>
+                <constraint firstItem="F7m-ZD-cLh" firstAttribute="top" secondItem="Yfs-KO-jje" secondAttribute="bottom" constant="5" id="xzF-f5-mle"/>
+                <constraint firstItem="Z6u-9C-DZp" firstAttribute="height" secondItem="za9-ea-kr3" secondAttribute="height" id="yoN-3W-feN"/>
+                <constraint firstItem="kfr-m9-zwd" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="zdA-dg-eSG"/>
+            </constraints>
+            <size key="customSize" width="495" height="573"/>
+            <point key="canvasLocation" x="-166.5" y="220.5"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="image-0" width="1280" height="821"/>
+        <image name="image-1" width="1280" height="850"/>
+        <image name="image-2" width="1280" height="853"/>
+        <image name="image-3" width="1280" height="863"/>
+        <image name="image-9" width="1280" height="853"/>
+    </resources>
+</document>

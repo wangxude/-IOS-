@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.OpenGLErrorBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            symbolName = "__GPUTOOLS_HAS_DETECTED_AN_OPENGL_ERROR__"
+            moduleName = "libglInterpose.dylib">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.OpenGLError">
+                  <ActionContent>
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/WXWaterLayout.m"
+            timestampString = "515068222.209758"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "-layoutAttributesForItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517137847.782663"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "-waterfallLayout:itemHeightWithItemWidth:atIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-initWithData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "-initWithData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/Libs/JLBrowser/JLPhotoBrowser.m"
+            timestampString = "517568219.194524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "-setupSmallScrollViews"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517137847.782663"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "-collectionView:numberOfItemsInSection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.OpenGLErrorBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            symbolName = "__GPUTOOLS_HAS_DETECTED_AN_OPENGL_ERROR__"
+            moduleName = "libglInterpose.dylib">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.OpenGLError">
+                  <ActionContent>
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395796.041407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-layoutAttributesForItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395796.041407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "-layoutAttributesForItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395796.041407"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "-layoutAttributesForItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "-setupCollectionView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395784.803245"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "-prepareLayout"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "-initWithData"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXDailyRecommendViewController initWithData]"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/ViewController/WXDailyRecommendViewController.m"
+                  timestampString = "517731908.643033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__46-[WXDailyRecommendViewController initWithData]_block_invoke"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/ViewController/WXDailyRecommendViewController.m"
+                  timestampString = "517731908.644976"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395848.804726"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-collectionViewContentSize"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395850.99875"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "-setColumnSpacing:rowSpacing:sectionInset:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395851.987415"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "+waterFallLayoutWithColumnCount:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395853.304638"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-initWithColumnCount:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395853.787283"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "-attributesArray"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/View/YuriWaterfallLayout.m"
+            timestampString = "515395854.259702"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "-init"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517126010.72296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "-dropDownRefresh"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/Libs/JLBrowser/JLPhotoBrowser.m"
+            timestampString = "517568219.194524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "-shareImageToPlatfrom"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/Libs/JLBrowser/JLPhotoBrowser.m"
+            timestampString = "517568219.194524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "-shareImageToPlatfrom"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JLPhotoBrowser shareImageToPlatfrom]"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/Libs/JLBrowser/JLPhotoBrowser.m"
+                  timestampString = "517731908.683422"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38-[JLPhotoBrowser shareImageToPlatfrom]_block_invoke"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/Libs/JLBrowser/JLPhotoBrowser.m"
+                  timestampString = "517731908.685323"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/Libs/JLBrowser/JLPhotoBrowser.m"
+            timestampString = "517568219.194524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "-shareImageToPlatfrom"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/Libs/JLBrowser/JLPhotoBrowser.m"
+            timestampString = "517568219.194524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-shareImageToPlatfrom"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "-deleteButton:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "-deleteButton:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "-textView:shouldChangeTextInRange:replacementText:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "-textView:shouldChangeTextInRange:replacementText:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "-changeViewUp:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "-textViewDidEndEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "-textViewDidBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "-textViewDidBeginEditing:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "-addANewTag:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "-buttonClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515826603.987831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "-buttonClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515826603.987831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "-fadeIn"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515826603.987831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "-fadeIn"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515826603.987831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "-fadeOut"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXPopView fadeOut]"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.170869"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "263"
+                  endingLineNumber = "263"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__20-[WXPopView fadeOut]_block_invoke"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.172905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "263"
+                  endingLineNumber = "263"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515826603.987831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "-fadeOut"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WXPopView fadeOut]"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.177745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__20-[WXPopView fadeOut]_block_invoke"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.179691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.181"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.181565"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.182"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.183431"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__20-[WXPopView fadeOut]_block_invoke.184"
+                  moduleName = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kys-5/Desktop/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F5%2025/%E5%9F%BA%E4%BA%8EIOS%E7%9A%84%E5%9B%BE%E7%89%87%E8%AE%A4%E7%9F%A5%E5%88%86%E7%B1%BB%E7%B3%BB%E7%BB%9F/MainModule/%E9%A6%96%E9%A1%B5%E6%A8%A1%E5%9D%97/Model/WXPopView.m"
+                  timestampString = "517731909.185525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/Model/WXPopView.m"
+            timestampString = "515824013.889532"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "192"
+            endingLineNumber = "192"
+            landmarkName = "-addEditButton"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/SignInViewController.m"
+            timestampString = "517819917.538606"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "-ChooseLoginBtn"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/SignInViewController.m"
+            timestampString = "517819917.538606"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "-ChooseLoginBtn"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x6a21;&#x5757;/ViewController/WXPubilishPicturesViewController.m"
+            timestampString = "517240300.642465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "-openThePhotoAlbum"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x6a21;&#x5757;/ViewController/WXPubilishPicturesViewController.m"
+            timestampString = "517240300.642465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "-openTheCamera"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x6a21;&#x5757;/ViewController/WXPubilishPicturesViewController.m"
+            timestampString = "517240300.642465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "-openThePhotoAlbum"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x6a21;&#x5757;/ViewController/WXPubilishPicturesViewController.m"
+            timestampString = "517240300.642465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "239"
+            endingLineNumber = "239"
+            landmarkName = "-openThePhotoAlbum"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x6a21;&#x5757;/ViewController/WXPubilishPicturesViewController.m"
+            timestampString = "517240300.642465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "-openThePhotoAlbum"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x4e2a;&#x4eba;&#x4e2d;&#x5fc3;&#x6a21;&#x5757;/ViewController/WXPubilishPicturesViewController.m"
+            timestampString = "517240300.642465"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "-initWithPictureView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainFrame/ViewController/WXTabBarViewController.m"
+            timestampString = "517067229.10353"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "-setUpChildViewController"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainFrame/ViewController/WXTabBarViewController.m"
+            timestampString = "517067229.10353"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-setUpChildViewController"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x6211;&#x7684;&#x6700;&#x7231;&#x6a21;&#x5757;/WXSearchPicturesViewController.m"
+            timestampString = "517066748.363582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "-PullOnLoading"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x6211;&#x7684;&#x6700;&#x7231;&#x6a21;&#x5757;/WXSearchPicturesViewController.m"
+            timestampString = "517066748.363582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "-PullOnLoading"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.OpenGLErrorBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            symbolName = "__GPUTOOLS_HAS_DETECTED_AN_OPENGL_ERROR__"
+            moduleName = "libglInterpose.dylib">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.OpenGLError">
+                  <ActionContent>
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXDailyRecommendViewController.m"
+            timestampString = "517137847.782663"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "-waterfallLayout:itemHeightWithItemWidth:atIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x57fa;&#x4e8e;IOS&#x7684;&#x56fe;&#x7247;&#x8ba4;&#x77e5;&#x5206;&#x7c7b;&#x7cfb;&#x7edf;/MainModule/&#x9996;&#x9875;&#x6a21;&#x5757;/ViewController/WXAddPictureLabelViewController.m"
+            timestampString = "517736805.754097"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "-generateLabel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
